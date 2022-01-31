@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\bin\Debug\netcoreapp3.1\TTAStudentDailyReport.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\bin\Debug\netcoreapp3.1\TTAStudentDailyReport.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\bin\Debug\netcoreapp3.1\TTAStudentDailyReport.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\bin\Debug\netcoreapp3.1\TTAStudentDailyReport.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\bin\Debug\netcoreapp3.1\TTAStudentDailyReport.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\bin\Debug\netcoreapp3.1\TTAStudentDailyReport.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\TTAStudentDailyReport\TTAStudentDailyReport\obj\Debug\netcoreapp3.1\TTAStudentDailyReport.genruntimeconfig.cache
