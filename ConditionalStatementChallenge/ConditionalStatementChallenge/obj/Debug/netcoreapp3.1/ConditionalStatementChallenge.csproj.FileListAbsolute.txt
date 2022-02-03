@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\netcoreapp3.1\ConditionalStatementChallenge.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\netcoreapp3.1\ConditionalStatementChallenge.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\netcoreapp3.1\ConditionalStatementChallenge.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\netcoreapp3.1\ConditionalStatementChallenge.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\netcoreapp3.1\ConditionalStatementChallenge.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\netcoreapp3.1\ConditionalStatementChallenge.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\netcoreapp3.1\ConditionalStatementChallenge.genruntimeconfig.cache
