@@ -38,24 +38,27 @@ class Program
         Console.WriteLine("12+13=?? Enter \"0\" for the answer.\n25+8=?? Enter \"1\" for the answer.\n50+50=??? Enter \"2\" for the answer.");
         int indexOfArray1 = int.Parse(Console.ReadLine()); //This line saves the input result
         // Variable of integer type gets converted as user input is captured and stored.
-        //Loop that prints items in array
-        foreach (int i in intArray1)
-        //{
-        //    Console.WriteLine(i);
-        //}
-        if (indexOfArray1 > 2) // If user input is greater than 2
-        { // then the message of index is not available will display
-            Console.WriteLine("Index is not available.");
-            Environment.Exit(0); // This allows the program to break free
-        }
-        else
-        { // Otherwise the message below displays with the record based on user input
-            Console.WriteLine("The answer is: " + intArray1[indexOfArray1]);
+        
+        // Switch case will display a preselected message and value of index chosen.
+        switch (indexOfArray1)
+        {
+            case 0: // If user input is 0, the value of index 0 is displayed
+                Console.WriteLine("The answer is: " + intArray1[indexOfArray1]);
+                break;
+
+            case 1: // If user input is 1, the value of index 1 is displayed
+                Console.WriteLine("The answer is: " + intArray1[indexOfArray1]);
+                break;
+
+            case 2: // If user input is 2, the value of index 2 is displayed
+                Console.WriteLine("The answer is: " + intArray1[indexOfArray1]);
+                break;
+
+            default: // If chosen index does not exist, then this message will display
+                Console.WriteLine("Index is not available.");
+                break;
         }
         Console.ReadLine();
-
-
-       
 
 
         // This creates a list of strings and then instantiates the list.
