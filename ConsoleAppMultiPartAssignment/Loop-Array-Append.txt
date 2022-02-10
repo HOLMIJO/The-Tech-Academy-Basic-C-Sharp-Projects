@@ -1,0 +1,22 @@
+Hi Joseph,
+
+Sure, I can help with that. Let's break this down piece by piece. The first step is to read user input into a string:
+
+Console.WriteLine("Please enter a string to append onto each item: );
+string userInput = Console.ReadLine();
+
+Now, we have to iterate through the array, one item at a time. Well, we know that we iterate through an array using a "for" loop, so let's set that up. Let's say our array is named "strArray":
+
+for (int i = 0; i < strArray.Count; i++)
+{
+
+Now, we have to append the string we read user input into earlier onto each item. Let's think about this. We have to modify each individual item in the array, so we have to reference each item one at a time and assign it a new value. We're iterating through the array with the int variable "i", so we'll use "i" to reference each item one at a time. The way we reference a specific item in an array is by writing the name of the array, and then square brackets with an "i" between them. In this case, we would reference each item like this:    strArray[i]    . We need to append (or in other words, add on to) each item, so we'll use the += operator. Like this:
+
+    strArray[i] += userInput;
+}
+
+Notice what we're doing there. We're referencing each individual item in the array by writing "strArray[i]", and then we're using += to append "userInput" onto each item.
+
+Then, you would just make another "for" loop to iterate through the list again, this time displaying each item.
+
+- Levi B.

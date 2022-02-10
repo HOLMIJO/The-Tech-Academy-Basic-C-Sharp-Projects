@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConsoleAppMultiPartAssignment\ConsoleAppMultiPartAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMultiPartAssignment.genruntimeconfig.cache
