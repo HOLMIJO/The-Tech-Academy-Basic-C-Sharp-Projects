@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ConsoleAppMultiPartAssignment
 {
@@ -82,7 +85,7 @@ namespace ConsoleAppMultiPartAssignment
                     break;
 
                 default:
-                    Console.WriteLine("Index is not available.");
+                    Console.WriteLine("Index is not available. Please check the spelling and try again.");
                     break;
             }
             Console.ReadLine();
