@@ -26,12 +26,12 @@ namespace ConsoleAppMultiPartAssignment
             }
             Console.ReadLine();
 
-            // This is an infinite loop.
-            for ( ; ; )
-            {
-                Console.Write("x");
-            }
-            Console.ReadLine();
+            //// This is an infinite loop.
+            //for ( ; ; )
+            //{
+            //    Console.Write("x");
+            //}
+            //Console.ReadLine();
 
             // Here c will print it's value
             // as it increments by 1 
@@ -59,36 +59,19 @@ namespace ConsoleAppMultiPartAssignment
             profileList.Add("State: Arkansas");
             profileList.Add("Country: USA");
             // User is given instructions and prompted to enter specific search terms.
-            Console.WriteLine("Please enter a search term.\nYou may choose \"Name\", \"Phone Number\", \"Email\", \"State\", or \"Country\".\nPlease enter your selection now.");
-            string strList = Convert.ToString(Console.ReadLine()); //This line saves the input result
-
-            switch (profileList)
+            Console.WriteLine("Please enter an index number to choose an item.\n\"0\" for the Name, \"1\" for the Phone Number, \n\"2\" for the Email, \"3\" for the State, \nand \"4\" for the Country.");
+            int userIndex = Convert.ToInt32(Console.ReadLine()); // This line saves the input result
+            if (userIndex > 5) // If user inputs an index greater than 5 they get message.
             {
-                case "Name":
-                    Console.WriteLine("The answer is: " + profileList[strList]);
-                    break;
-
-                case "Phone Number":
-                    Console.WriteLine("The answer is: " + profileList[strList]);
-                    break;
-
-                case "Email":
-                    Console.WriteLine("The answer is: " + profileList[strList]);
-                    break;
-
-                case "State":
-                    Console.WriteLine("The answer is: " + profileList[strList]);
-                    break;
-
-                case "Country":
-                    Console.WriteLine("The answer is: " + profileList[strList]);
-                    break;
-
-                default:
-                    Console.WriteLine("Index is not available. Please check the spelling and try again.");
-                    break;
+                Console.WriteLine("ERROR MESSAGE: The chosen index is out of range.  Have a good day!");
+            }
+            else // If user inputs index in range, the information will display
+            {
+                // Prints a message plus info from chosen index by user.
+                Console.WriteLine("You chose: " + profileList[userIndex]);
             }
             Console.ReadLine();
+
 
 
         }
