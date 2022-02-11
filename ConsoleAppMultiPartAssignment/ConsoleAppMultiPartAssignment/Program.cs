@@ -51,35 +51,52 @@ namespace ConsoleAppMultiPartAssignment
             //}
             //Console.ReadLine();
 
-            // A string of unique values
-            List<string> stateList = new List<string>() { "Arkansas", "Oregon", "Washington" };
-            // Instructions print for user.
-            Console.WriteLine("Enter the name of a state.");
-            // This line holds the value for index.
-            string userInput = Console.ReadLine();
-            // This says if the input is false then do foreach loop.
-            bool inputCheck = false;
-            int inputIndex;
-            foreach (string state in stateList)
-            {
-                // If user input equals state in list, then print index.
-                if (userInput == state)
-                {
-                    inputCheck = true;
-                    inputIndex = stateList.IndexOf(state);
-                    Console.WriteLine(inputIndex);
-                }
-            }
-            // If user input does not equal state in list, then print message.
-            if (inputCheck == false)
-            {
-                Console.WriteLine("Index not found.");
-            }
+            //// A string of unique values
+            //List<string> stateList = new List<string>() { "Arkansas", "Oregon", "Washington" };
+            //// Instructions print for user.
+            //Console.WriteLine("Enter the name of a state.");
+            //// This line holds the value for index.
+            //string userInput = Console.ReadLine();
+            //// This says if the input is false then do foreach loop.
+            //bool inputCheck = false;
+            //int inputIndex;
+            //foreach (string state in stateList)
+            //{
+            //    // If user input equals state in list, then print index.
+            //    if (userInput == state)
+            //    {
+            //        inputCheck = true;
+            //        inputIndex = stateList.IndexOf(state);
+            //        Console.WriteLine(inputIndex);
+            //    }
+            //}
+            //// If user input does not equal state in list, then print message.
+            //if (inputCheck == false)
+            //{
+            //    Console.WriteLine("Index not found.");
+            //}
             
+            //Console.ReadLine();
+
+
+            // A string of unique values, with identicals included.
+            List<string> fruitList = new List<string>() { "Apple", "Orange", "Banana", "Apple", "Strawberry", "Orange", "Kiwi" };
+            // Instructions print for user.
+            Console.WriteLine("Enter the name of a fruit.");
+            // This line holds the value for index.
+            string fruitInput = Console.ReadLine();
+            // This iterates through list and if match in list, index will print
+            for (int index = 0; index < fruitList.Count; index++)
+                if (fruitList[index] == fruitInput)
+                {
+                    Console.WriteLine(index);
+                }
+                else
+                {
+                    // If no match, this message will display
+                    Console.WriteLine("Index not found.");
+                }
             Console.ReadLine();
-
-
-
         }
     }
 }
