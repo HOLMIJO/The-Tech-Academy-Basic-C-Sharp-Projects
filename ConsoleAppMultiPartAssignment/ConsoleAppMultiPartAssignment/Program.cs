@@ -12,73 +12,74 @@ namespace ConsoleAppMultiPartAssignment
 
         static void Main(string[] args)
         {
-            // Array of string variable format, instantiated.
-            string[] greetings = new string[] { "Welcome, ", "How are you today, ", "Have a great day, " };
-            // Message giving user instructions will be displayed.
-            Console.WriteLine("Enter your first name ,then press ENTER\nYou will receive a personalized message.");
-            // This line saves the input result
-            string userInput = Console.ReadLine();
-            // This statement iterates through the greetings, increments by one.
-            for (int i = 0; i < greetings.Length; i++)
-            {
-                // Greetings + userInput displays
-                Console.WriteLine(greetings[i] += userInput);
-            }
-            Console.ReadLine();
-
-            //// This is an infinite loop.
-            //for ( ; ; )
+            //// Array of string variable format, instantiated.
+            //string[] greetings = new string[] { "Welcome, ", "How are you today, ", "Have a great day, " };
+            //// Message giving user instructions will be displayed.
+            //Console.WriteLine("Enter your first name ,then press ENTER\nYou will receive a personalized message.");
+            //// This line saves the input result
+            //string userInput = Console.ReadLine();
+            //// This statement iterates through the greetings, increments by one.
+            //for (int i = 0; i < greetings.Length; i++)
             //{
-            //    Console.Write("x");
+            //    // Greetings + userInput displays
+            //    Console.WriteLine(greetings[i] += userInput);
             //}
             //Console.ReadLine();
 
-            // Here c will print it's value
-            // as it increments by 1 
-            // until it meets the limit of 5
-            for (int c = 0; c < 5; c++)
-            {
-                Console.WriteLine("Value of c: {0}", c);
-            }
-            Console.ReadLine();
+            ////// This is an infinite loop.
+            ////for ( ; ; )
+            ////{
+            ////    Console.Write("x");
+            ////}
+            ////Console.ReadLine();
 
-            // Here b will print it's value
-            // as it increments by 1 
-            // until it is less than or equal to 5
-            for (int b = 0; b <= 5; b++)
-            {
-                Console.WriteLine("b value: {0}", b);
-            }
-            Console.ReadLine();
+            //// Here c will print it's value
+            //// as it increments by 1 
+            //// until it meets the limit of 5
+            //for (int c = 0; c < 5; c++)
+            //{
+            //    Console.WriteLine("Value of c: {0}", c);
+            //}
+            //Console.ReadLine();
+
+            //// Here b will print it's value
+            //// as it increments by 1 
+            //// until it is less than or equal to 5
+            //for (int b = 0; b <= 5; b++)
+            //{
+            //    Console.WriteLine("b value: {0}", b);
+            //}
+            //Console.ReadLine();
 
             // A string of unique values
-            List<string> profileList = new List<string>();
-            profileList.Add("Name: Joseph Holmin");
-            profileList.Add("Phone Number: +1(901) 677-4221");
-            profileList.Add("Email: holminj@icloud.com");
-            profileList.Add("State: Arkansas");
-            profileList.Add("Country: USA");
-            // User is given instructions and prompted to enter specific search terms.
-            Console.WriteLine("Please enter an index number to choose an item.\n\"0\" for the Name, \"1\" for the Phone Number, \n\"2\" for the Email, \"3\" for the State, \nand \"4\" for the Country.");
-            int userIndex = Convert.ToInt32(Console.ReadLine()); // This line saves the input result
-
-            // This statement iterates through the profile info, and increments by one.
-            for (int e = 0; e < profileList.Count; e++)
+            List<string> stateList = new List<string>() { "Arkansas", "Oregon", "Washington" };
+            // Instructions print for user.
+            Console.WriteLine("Enter the name of a state.");
+            // This line holds the value for index.
+            string userInput = Console.ReadLine();
+            // This says if the input is false then do foreach loop.
+            bool inputCheck = false;
+            int inputIndex;
+            foreach (string state in stateList)
             {
-                // Profile info + userInput displays
-                Console.WriteLine(profileList[e] += userIndex);
-
-                if (userIndex > 4) // If user inputs an index greater than 4 they get message.
+                // If user input equals state in list, then print index.
+                if (userInput == state)
                 {
-                    Console.WriteLine("ERROR MESSAGE: The chosen index is out of range.  Have a good day!");
-                }
-                else // If user inputs index in range, the information will display
-                {
-                    // Prints a message plus info from chosen index by user.
-                    Console.WriteLine("You chose: " + profileList[userIndex]);
+                    inputCheck = true;
+                    inputIndex = stateList.IndexOf(state);
+                    Console.WriteLine(inputIndex);
                 }
             }
+            // If user input does not equal state in list, then print message.
+            if (inputCheck == false)
+            {
+                Console.WriteLine("Index not found.");
+            }
+            
             Console.ReadLine();
+
+
+
         }
     }
 }
