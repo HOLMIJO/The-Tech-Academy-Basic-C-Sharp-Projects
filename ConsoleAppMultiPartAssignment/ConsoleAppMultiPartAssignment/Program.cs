@@ -61,7 +61,7 @@ namespace ConsoleAppMultiPartAssignment
             // User is given instructions and prompted to enter specific search terms.
             Console.WriteLine("Please enter an index number to choose an item.\n\"0\" for the Name, \"1\" for the Phone Number, \n\"2\" for the Email, \"3\" for the State, \nand \"4\" for the Country.");
             int userIndex = Convert.ToInt32(Console.ReadLine()); // This line saves the input result
-            if (userIndex > 5) // If user inputs an index greater than 5 they get message.
+            if (userIndex > 4) // If user inputs an index greater than 5 they get message.
             {
                 Console.WriteLine("ERROR MESSAGE: The chosen index is out of range.  Have a good day!");
             }
