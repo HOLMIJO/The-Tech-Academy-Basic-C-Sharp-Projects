@@ -89,13 +89,15 @@ namespace ConsoleAppMultiPartAssignment
             for (int index = 0; index < fruitList.Count; index++)
                 if (fruitList[index] == fruitInput)
                 {
+                    // This prints the associated index number
                     Console.WriteLine(index);
                 }
-                else
-                {
-                    // If no match, this message will display
-                    Console.WriteLine("Index not found.");
-                }
+            // If the user inputs something not in the list...
+            if (!fruitList.Contains(fruitInput))
+            {
+                // This message will display to the user.
+                Console.WriteLine("Sorry, item not found.");
+            }
             Console.ReadLine();
         }
     }
