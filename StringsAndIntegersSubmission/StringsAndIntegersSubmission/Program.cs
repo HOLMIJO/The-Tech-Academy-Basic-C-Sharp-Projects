@@ -16,17 +16,28 @@ namespace StringsAndIntegersSubmission
             intList.Add(2);
 
             Console.WriteLine("Pick a number.This number will be used to divide each number in the list.");
-            int userInput = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Dividing the two...");
-            foreach (int i in intList)
+            try
             {
-                Console.WriteLine(i);
+                int userInput = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Dividing the two...");
+                foreach (int i in intList)
+                {
+                    Console.WriteLine("{0} / {1} = {2}", i, userInput, i / userInput);
+                }
             }
-            for (int i = 0; i < intList.Count; i++)
+            catch (DivideByZeroException)
             {
-                Console.WriteLine(intList[i]);
+                Console.WriteLine("Don't divide by zero.");
             }
-            Console.WriteLine("{0} / {1} = {2}", intList, userInput, intList / userInput);
+            catch (FormatException)
+            {
+                Console.WriteLine("Give me a whole number!");
+            }
+            finally
+            {
+                Console.WriteLine("Program complete!");
+            }
+            
             Console.ReadLine();
         }
     }
