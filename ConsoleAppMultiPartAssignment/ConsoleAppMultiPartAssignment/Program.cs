@@ -103,13 +103,23 @@ namespace ConsoleAppMultiPartAssignment
 
             // A string of values, with some identicals included.
             List<string> sameList = new List<string>() { "Ace", "Bear", "Brandon", "Becca", "Joe", "Ace", "Stephen", "John", "Becca" };
+            List<string> mtList = new List<string>();
             // Access the loop in order
+            bool found = false;
             foreach (string same in sameList)
             {
-                Console.WriteLine("{0} ", same);
+                if (sameList.Contains("Becca") == true)
+                {
+                    found = true;
+                    Console.WriteLine("This string Contains() HAS been repeated.");
+                }
+                if (mtList.Contains("Becca") == false)
+                {
+                    found = false;
+                    Console.WriteLine("This string has NOT been repeated!");
+                }
             }
             Console.ReadLine();
-
         }
     }
 }
