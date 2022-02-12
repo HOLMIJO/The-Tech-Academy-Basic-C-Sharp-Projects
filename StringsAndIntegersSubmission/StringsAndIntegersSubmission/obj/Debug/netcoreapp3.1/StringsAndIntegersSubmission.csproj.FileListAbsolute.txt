@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.genruntimeconfig.cache
