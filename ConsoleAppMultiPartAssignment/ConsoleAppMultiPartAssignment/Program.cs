@@ -75,30 +75,41 @@ namespace ConsoleAppMultiPartAssignment
             //{
             //    Console.WriteLine("Index not found.");
             //}
-            
+
             //Console.ReadLine();
 
 
-            // A string of unique values, with identicals included.
-            List<string> fruitList = new List<string>() { "Apple", "Orange", "Banana", "Apple", "Strawberry", "Orange", "Kiwi" };
-            // Instructions print for user.
-            Console.WriteLine("Enter the name of a fruit.");
-            // This line holds the value for index.
-            string fruitInput = Console.ReadLine();
-            // This iterates through list and if match in list, index will print
-            for (int index = 0; index < fruitList.Count; index++)
-                if (fruitList[index] == fruitInput)
-                {
-                    // This prints the associated index number
-                    Console.WriteLine(index);
-                }
-            // If the user inputs something not in the list...
-            if (!fruitList.Contains(fruitInput))
+            //// A string of unique values, with identicals included.
+            //List<string> fruitList = new List<string>() { "Apple", "Orange", "Banana", "Apple", "Strawberry", "Orange", "Kiwi" };
+            //// Instructions print for user.
+            //Console.WriteLine("Enter the name of a fruit.");
+            //// This line holds the value for index.
+            //string fruitInput = Console.ReadLine();
+            //// This iterates through list and if match in list, index will print
+            //for (int index = 0; index < fruitList.Count; index++)
+            //    if (fruitList[index] == fruitInput)
+            //    {
+            //        // This prints the associated index number
+            //        Console.WriteLine(index);
+            //    }
+            //// If the user inputs something not in the list...
+            //if (!fruitList.Contains(fruitInput))
+            //{
+            //    // This message will display to the user.
+            //    Console.WriteLine("Sorry, item not found.");
+            //}
+            //Console.ReadLine();
+
+
+            // A string of values, with some identicals included.
+            List<string> sameList = new List<string>() { "Ace", "Bear", "Brandon", "Becca", "Joe", "Ace", "Stephen", "John", "Becca" };
+            // Access the loop in order
+            foreach (string same in sameList)
             {
-                // This message will display to the user.
-                Console.WriteLine("Sorry, item not found.");
+                Console.WriteLine("{0} ", same);
             }
             Console.ReadLine();
+
         }
     }
 }
