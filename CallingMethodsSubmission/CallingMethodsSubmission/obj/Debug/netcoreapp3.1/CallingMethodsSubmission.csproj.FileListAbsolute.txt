@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\netcoreapp3.1\CallingMethodsSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\netcoreapp3.1\CallingMethodsSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\netcoreapp3.1\CallingMethodsSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\netcoreapp3.1\CallingMethodsSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\netcoreapp3.1\CallingMethodsSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\netcoreapp3.1\CallingMethodsSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\netcoreapp3.1\CallingMethodsSubmission.genruntimeconfig.cache
