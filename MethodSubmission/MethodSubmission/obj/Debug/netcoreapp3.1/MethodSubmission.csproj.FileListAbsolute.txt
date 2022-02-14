@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodSubmission\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.genruntimeconfig.cache
