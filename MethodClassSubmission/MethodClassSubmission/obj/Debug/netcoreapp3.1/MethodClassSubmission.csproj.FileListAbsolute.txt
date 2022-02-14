@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.genruntimeconfig.cache
