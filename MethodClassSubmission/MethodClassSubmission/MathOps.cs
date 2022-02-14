@@ -14,9 +14,9 @@ namespace MethodClassSubmission
         {
             // This sets an integer variable named result,
             // and does math operation on method arguments.
-            int result = (num1 + num2) / 6;
-            // This prints the result of the math operation to the screen.
-            Console.WriteLine(result);
+            int result = num1 + 12;
+            // This prints the second integer to the screen.
+            Console.WriteLine(num2);
             Console.ReadLine();
         }
     }
