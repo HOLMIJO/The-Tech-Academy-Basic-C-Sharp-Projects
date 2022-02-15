@@ -19,6 +19,13 @@ namespace ClassSubmissionAssignment
             // This line prints a friendly message including the results.
             Console.WriteLine("Your number divided by 2 equals: " + sum);
             Console.ReadLine();
+            // This variable is a list named newList
+            var List<int> newList = new List<int>() { 12, 40, 6, 28, 10 };
+            math1.Output(newList, out int total);
+            // This gives a friendly message with the total of items in the list.
+            Console.WriteLine("There are " + total + " items in the list.");
+
+
         }
     }
 }
