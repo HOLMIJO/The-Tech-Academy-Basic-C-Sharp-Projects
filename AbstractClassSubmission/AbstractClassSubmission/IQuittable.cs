@@ -9,6 +9,6 @@ namespace AbstractClassSubmission
     interface IQuittable
     {
         // This is a void method on the Employee class
-        void Quit(Employee employee);
+        void Quit();
     }
 }

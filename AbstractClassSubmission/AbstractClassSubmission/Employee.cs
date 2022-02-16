@@ -17,31 +17,28 @@ namespace AbstractClassSubmission
 
 
         // Uses same method as IQuittable interface
-        public void Quit(Employee employee)
+        public void Quit()
         {
             // Friendly greeting giving user instructions.
-            Console.WriteLine("Please advise your employment status.\nAre you a current employee? \nPlease enter y or n and press ENTER.");
-            // This stores the user input
-            string response = Console.ReadLine();
-            // If user answers y, they are given friendly greeting.
-            if (response == "y")
-            {
-                // Friendly response for user input of Y.
-                Console.WriteLine("Great, we are glad you are employed here!");
-            }
-            // If user answers n, they are given the following response.
-            if (response == "n")
-            {
-                // Friendly response based on user input of n.
-                Console.WriteLine("We are sorry to see you go. We wish you well in all of your future endeavors.");
-            }
-            // If user answers other than y or n, they are given the following response.
-            else
-            {
-                // Friendly response based on user input other than y.
-                Console.WriteLine("You have entered an invalid response.");
-            }
-            Console.ReadLine();
+            Console.WriteLine("The employee has quit.");
+        }
+         
+        // Employee Id properties
+        public int Id { get; set; }
+
+
+        // Overloading of Boolean method checking for equality of 2 employees.
+        public static bool operator== (Employee employee, Employee employee1)
+        {
+            // This will return true or false based on equality of employee Id. 
+            return employee.Id == employee1.Id;
+        }
+
+        // Overloading of Boolean method checking for inequality, being NOT equal values of 2 employees.
+        public static bool operator!= (Employee employee, Employee employee1)
+        {
+            // This will return true or false based on inequality, being NOT equal to employee Id. 
+            return employee.Id != employee1.Id;
         }
     }
 }
