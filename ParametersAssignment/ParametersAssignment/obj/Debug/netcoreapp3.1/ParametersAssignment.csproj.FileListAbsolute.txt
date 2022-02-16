@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.genruntimeconfig.cache
