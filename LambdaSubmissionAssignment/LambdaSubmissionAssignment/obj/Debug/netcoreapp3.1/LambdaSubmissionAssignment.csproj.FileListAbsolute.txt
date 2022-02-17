@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.genruntimeconfig.cache
