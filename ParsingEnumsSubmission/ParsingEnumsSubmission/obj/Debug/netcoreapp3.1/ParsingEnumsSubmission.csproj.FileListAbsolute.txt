@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.genruntimeconfig.cache
