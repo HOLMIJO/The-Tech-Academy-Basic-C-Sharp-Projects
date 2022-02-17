@@ -8,10 +8,9 @@ namespace LambdaSubmissionAssignment
 {
     class Program
     {
-        public static string Names { get; private set; }
-
         static void Main(string[] args)
         {
+            // This is a list of all employees.
             List<Employee> Employee = new List<Employee>();
             // Each employee has a first and last name, as well as an Id.
             Employee Emp1 = new Employee();
@@ -79,14 +78,14 @@ namespace LambdaSubmissionAssignment
 
             // This creates the new "anewList" list.
             List<Employee> anewList = new List<Employee>();
-            foreach (Employee employee in Employee)
+            foreach (Employee employee in EmployeeList)
             {
                 if (employee.FirstName == "Joe")
                 {
                     anewList.Add(employee);
                 }
             }
-            Console.WriteLine("Employee named \"Joe\" include:");
+            Console.WriteLine("Employee named \"Joe\" has been found.");
 
             for (int i = 0; i < anewList.Count; i++)
             {
@@ -94,7 +93,7 @@ namespace LambdaSubmissionAssignment
             }
 
             // Here I've created another new list for Employee named Joe and use a lambda expression to find and add them to the list
-            List<Employee> anewList1 = Employee.Where(x => x.FirstName == "Joe").ToList();
+            List<Employee> anewList1 = EmployeeList.Where(x => x.FirstName == "Joe").ToList();
             Console.WriteLine("Employees named \"Joe\" include:");
             for (int j = 0; j < anewList1.Count; j++)
             {
@@ -102,7 +101,7 @@ namespace LambdaSubmissionAssignment
             }
 
             // Here I've created a new list for all of the Employee with Ids higher than five and use a lambda epxression to find and add them to the list
-            List<Employee> fivePlus = Employee.Where(x => x.Id > 5).ToList();
+            List<Employee> fivePlus = EmployeeList.Where(x => x.Id > 5).ToList();
             Console.WriteLine("Employees with an Id greater than 5 include: ");
             for (int k = 0; k < fivePlus.Count; k++)
             {
