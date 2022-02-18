@@ -1,0 +1,14 @@
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.exe
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.deps.json
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.json
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.dev.json
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfoInputs.cache
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfo.cs
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\joeho\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.genruntimeconfig.cache
