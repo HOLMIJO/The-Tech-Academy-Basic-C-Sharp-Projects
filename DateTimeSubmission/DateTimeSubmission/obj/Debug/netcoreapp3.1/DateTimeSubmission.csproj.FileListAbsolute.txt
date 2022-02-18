@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\netcoreapp3.1\DateTimeSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\netcoreapp3.1\DateTimeSubmission.genruntimeconfig.cache
