@@ -1,0 +1,14 @@
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfoInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfo.cs
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.exe
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.deps.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.dev.json
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\joeho\Desktop\Basic_C#_Programs\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.genruntimeconfig.cache
