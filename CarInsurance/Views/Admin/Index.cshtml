@@ -1,0 +1,45 @@
+﻿@using CarInsurance.ViewModels
+@model List<InsuranceVM>
+
+@{
+    ViewBag.Title = "Admin Index";
+}
+
+<h2>Admin Index</h2>
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h2 class="m-0">Insuree Information</h2>
+        </div>
+        <div class="card-body">
+            @foreach(var insuredPerson in Model)
+            {
+                <div>
+                    <table class="table table-striped table-condensed">
+                        <tr>
+                            <td>
+                                First Name: @insuredPerson.FirstName
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Last Name: @insuredPerson.LastName
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Email Address: @insuredPerson.EmailAddress
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Quote: @insuredPerson.Quote
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            }
+        </div>
+    </div> 
+</div>
+
