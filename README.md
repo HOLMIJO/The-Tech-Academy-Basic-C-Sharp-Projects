@@ -213,6 +213,7 @@ Displayed appropriate error message if the user enters zero or negative numbers.
 Also displayed a general message for all other exceptions.
 
 # ASP.NET MVC Entity Framework Submission Assignment(Car Insurance)
+https://github.com/HOLMIJO/CarInsurance
 Created an ASP.NET MVC Entity Framework web page that is for an Auto Insurance company.
 Starts with a base of 50 dollars a month quote.
 There are if statements to check for age of the customer, make and model of the vehicle, year of the vehicle, speeding tickets, DUI and if Full Coverage is needed.
