@@ -224,5 +224,6 @@ Then saved after the calculation is done to a database that shows the customer i
 Created a basic Entity Framework Code-First app that creates a basic Student database and adds one student.
 
 # TwentyOne (BlackJack) Game
+https://github.com/HOLMIJO/The-Tech-Academy-Projects/tree/main/TwentyOne
 Game is a pretty good solo play game of TwentyOne with selected BlackJack rules.
 Game was created using Visual Studio 2019.
